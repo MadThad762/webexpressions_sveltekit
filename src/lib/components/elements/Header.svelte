@@ -1,7 +1,11 @@
 <script>
 	import logo from '$lib/assets/images/logos/logo.svg';
 
-	let showMobileMenu = false;
+	let showMenu = false;
+
+	const toggleMenu = () => {
+		showMenu = !showMenu;
+	};
 
 	const navigation = [
 		{ name: 'About', href: '/#about' },
@@ -24,7 +28,7 @@
 		<div class="flex">
 			<button
 				type="button"
-				on:click={() => (showMobileMenu = !showMobileMenu)}
+				on:click={() => toggleMenu()}
 				class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-text"
 			>
 				<span class="sr-only">Open main menu</span>
@@ -32,9 +36,9 @@
 					xmlns="http://www.w3.org/2000/svg"
 					fill="none"
 					viewBox="0 0 24 24"
-					stroke-width="2.1"
+					stroke-width="2.5"
 					stroke="currentColor"
-					class="w-10 h-10"
+					class="w-8 h-8"
 				>
 					<path
 						stroke-linecap="round"
@@ -45,8 +49,8 @@
 			</button>
 		</div>
 	</nav>
-	<!-- Mobile menu, show/hide based on menu open state. -->
-	{#if showMobileMenu}
+	<!-- Menu, show/hide based on menu open state. -->
+	{#if showMenu}
 		<div class="" role="dialog" aria-modal="true">
 			<!-- Background backdrop, show/hide based on slide-over state. -->
 			<div class="fixed inset-0 z-10"></div>
@@ -58,11 +62,7 @@
 						<span class="sr-only">Your Company</span>
 						<img class="h-8 w-auto" src={logo} alt="webexpressions logo" />
 					</a>
-					<button
-						type="button"
-						on:click={() => (showMobileMenu = !showMobileMenu)}
-						class="-m-2.5 rounded-md p-2.5 text-gray-700"
-					>
+					<button type="button" on:click={() => toggleMenu()} class="-m-2.5 rounded-md p-2.5">
 						<span class="sr-only">Close menu</span>
 						<svg
 							class="h-10 w-10 text-heading"
@@ -82,7 +82,7 @@
 							{#each navigation as item}
 								<a
 									href={item.href}
-									on:click={() => (showMobileMenu = false)}
+									on:click={() => toggleMenu()}
 									class="-mx-3 block rounded-lg py-3 px-5 text-3xl font-bold leading-7 text-heading sm:hover:scale-110 sm:ease-in-out sm:duration-300"
 								>
 									{item.name}

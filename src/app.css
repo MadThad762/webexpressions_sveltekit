@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+	@apply scroll-smooth;
+}
+
 .hero {
 	-webkit-mask-image: radial-gradient(32rem 32rem at center, white, transparent);
 }
