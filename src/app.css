@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero {
+	-webkit-mask-image: radial-gradient(32rem 32rem at center, white, transparent);
+}
+
+.balance {
+	text-wrap: balance;
+}
