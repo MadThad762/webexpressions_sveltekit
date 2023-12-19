@@ -17,7 +17,7 @@
 	];
 </script>
 
-<header class="bg-white sticky top-0 z-40 flex w-full flex-col duration-200 ease-in-out">
+<header class="bg-white sticky top-0 z-50 flex w-full flex-col duration-200 ease-in-out">
 	<div class="flex items-center justify-between px-6 py-4 lg:px-8" aria-label="Global">
 		<div class="flex lg:flex-1">
 			<a href="/" class="-m-1.5 p-1.5">
