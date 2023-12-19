@@ -1,4 +1,4 @@
-<div id="contact" class="overflow-hidden bg-white py-24 px-6 lg:px-8 lg:py-32">
+<section id="contact" class="overflow-hidden bg-white py-24 px-6 lg:px-8 lg:py-32">
 	<div class="relative mx-auto max-w-[44rem]">
 		<div class="mx-auto lg:text-center">
 			<h2 class="text-lg font-bold leading-8 tracking-tight text-primary">Contact us</h2>
@@ -111,4 +111,4 @@
 			</form>
 		</div>
 	</div>
-</div>
+</section>

@@ -18,7 +18,7 @@
 </script>
 
 <header class="bg-white sticky top-0 z-40 flex w-full flex-col duration-200 ease-in-out">
-	<nav class="flex items-center justify-between px-6 py-4 lg:px-8" aria-label="Global">
+	<div class="flex items-center justify-between px-6 py-4 lg:px-8" aria-label="Global">
 		<div class="flex lg:flex-1">
 			<a href="/" class="-m-1.5 p-1.5">
 				<span class="sr-only">Your Company</span>
@@ -48,7 +48,7 @@
 				</svg>
 			</button>
 		</div>
-	</nav>
+	</div>
 	<!-- Menu, show/hide based on menu open state. -->
 	{#if showMenu}
 		<div class="" role="dialog" aria-modal="true">
@@ -88,7 +88,7 @@
 				</div>
 				<div class="mt-6 flow-root">
 					<div class="-my-6 flex flex-col divide-y divide-slate-500/10 pt-6">
-						<div class="mt-8 flex flex-col items-end space-y-8">
+						<nav class="mt-8 flex flex-col items-end space-y-8">
 							{#each navigation as item}
 								<a
 									href={item.href}
@@ -98,7 +98,7 @@
 									{item.name}
 								</a>
 							{/each}
-						</div>
+						</nav>
 					</div>
 				</div>
 			</div>
