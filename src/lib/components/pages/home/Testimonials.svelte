@@ -82,7 +82,7 @@
 	}
 </script>
 
-<div class="relative isolate bg-white py-24 sm:py-32">
+<section class="relative isolate bg-white py-24 sm:py-32">
 	<div
 		class="absolute inset-x-0 top-1/2 -z-10 -translate-y-1/2 transform-gpu overflow-hidden opacity-30 blur-3xl"
 		aria-hidden="true"
@@ -179,4 +179,4 @@
 			{/each}
 		</div>
 	</div>
-</div>
+</section>
