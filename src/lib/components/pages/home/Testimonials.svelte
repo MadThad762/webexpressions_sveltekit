@@ -111,7 +111,7 @@
 		<div class="mx-auto max-w-3xl text-center">
 			<h2 class="text-lg font-bold leading-8 tracking-tight text-primary">Testimonials</h2>
 			<p class="mt-2 text-3xl font-bold tracking-tight text-heading sm:text-4xl balance">
-				Hear from some of our amazing clients
+				Hear From My Valued Clients
 			</p>
 		</div>
 		<div

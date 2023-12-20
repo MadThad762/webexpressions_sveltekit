@@ -2,45 +2,53 @@
 	const features = [
 		{
 			name: 'Web Design',
-			description: 'Crafting visually stunning, user-friendly web experiences.'
-		},
-		{
-			name: 'App Design',
-			description: 'Creating engaging, intuitive mobile app interfaces.'
+			description:
+				'Crafting visually stunning and intuitive web designs that resonate with your audience. Combining aesthetics with functionality for a compelling online presence.'
 		},
 		{
 			name: 'Web Development',
-			description: 'Developing robust, scalable, and high-performance websites.'
+			description:
+				'Building robust and scalable websites that deliver seamless user experiences. Using the latest technologies to create solutions that not only look great but perform excellently.'
+		},
+		{
+			name: 'App Design',
+			description:
+				'Creating user-focused app designs that blend innovation with usability. Elevate your mobile app with designs that engage and retain your audience.'
 		},
 		{
 			name: 'App Development',
-			description: 'Building efficient, seamless, and feature-rich mobile applications.'
+			description:
+				'Developing high-performance, feature-rich mobile applications tailored for iOS and Android platforms. Turning your app ideas into reality with seamless functionality and user-centric design.'
 		},
 		{
 			name: 'UI/UX Design',
-			description: 'Ensuring user-centric designs for memorable digital interactions.'
+			description:
+				'Ensuring a seamless and engaging user experience with top-notch UI/UX design services. Create intuitive and user-friendly interfaces that make your digital products stand out.'
 		},
 		{
 			name: 'Web Hosting',
-			description: 'Offering reliable, secure, and high-speed web hosting solutions.'
+			description:
+				"Offering reliable and secure web hosting solutions. Ensure your website's performance with fast loading times and maximum uptime."
 		},
 		{
 			name: 'E-commerce Solutions',
-			description: 'Designing and implementing tailored, innovative e-commerce platforms.'
+			description:
+				'Building comprehensive e-commerce platforms that drive sales. From shopping cart integration to payment processing, get a fully functional online store.'
+		},
+		{
+			name: 'Consulting',
+			description:
+				"Providing expert consulting to navigate the digital landscape. Get insights and strategies tailored to your business's specific needs and objectives."
 		},
 		{
 			name: 'Digital Marketing',
-			description: 'Maximizing online presence with strategic digital marketing campaigns.'
+			description:
+				'Expand your digital footprint with strategic marketing solutions. From SEO to social media marketing, harness the power of digital channels to grow your brand.'
 		},
 		{
-			name: 'Social Media Management',
+			name: 'Maintenance & Support',
 			description:
-				'Enhancing brand visibility through tailored social media strategies and consistent engagement.'
-		},
-		{
-			name: 'Copywriting',
-			description:
-				"Crafting compelling content to convey your brand's message and engage your audience."
+				'Offer continuous support and maintenance services to keep your web and app solutions running smoothly. Regular updates, bug fixes, and performance optimization to ensure long-term success.'
 		}
 	];
 </script>
@@ -51,21 +59,15 @@
 			class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3"
 		>
 			<div>
-				<h2 class="text-lg font-bold leading-8 tracking-tight text-primary">
-					Tailored Digital Solutions
-				</h2>
+				<h2 class="text-lg font-bold leading-8 tracking-tight text-primary">Expertise Unveiled</h2>
 				<p class="mt-2 text-3xl font-bold tracking-tight text-heading sm:text-4xl">
-					Our Array of Services
+					Comprehensive Web & App Services
 				</p>
 				<p class="mt-6 text-lg leading-7 text-body">
-					Explore the world of webexpressions, where we craft a rich spectrum of digital services
-					meticulously tailored to elevate your business. From designing visually stunning websites
-					and developing powerful applications to innovating cutting-edge e-commerce solutions,
-					digital marketing strategies, social media management, and professional copywriting, we
-					cover every facet of your digital presence. Our mission transcends mere online existence;
-					we create platforms that perform and engage, setting your business apart in the
-					competitive digital landscape. Partner with us, and let's shape digital expressions that
-					resonate with your brand, propelling your business to new heights.
+					Discover a suite of services meticulously crafted to bring your digital aspirations to
+					life. At webexpressions, I specialize in delivering top-tier web and app solutions, each
+					tailored to fit your unique requirements. From initial design to final deployment and
+					beyond, I ensure a seamless and impactful digital journey.
 				</p>
 			</div>
 			<dl

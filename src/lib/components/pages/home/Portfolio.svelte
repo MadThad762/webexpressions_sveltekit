@@ -13,20 +13,21 @@
 			<div class="lg:col-end-1 lg:w-full lg:max-w-lg lg:pb-8">
 				<h2 class="mb-2 text-lg font-bold leading-8 tracking-tight text-primary">Portfolio</h2>
 				<p class="text-3xl font-bold tracking-tight text-heading sm:text-4xl">
-					A sample of our work
+					Web Creations at a Click
 				</p>
 				<p class="mt-6 text-lg leading-7 text-body">
-					Browse through a selection of our recent projects. Each screenshot in our portfolio is a
-					gateway to a live site, reflecting our commitment to functional design and efficient web
-					development. Click on any project to view it live, and see firsthand how we bring ideas to
-					life, simply and effectively.
+					Dive into a showcase of my web development expertise, where each image is more than just a
+					snapshot – it's an invitation to experience the live websites I've crafted. My portfolio
+					is a display of diverse projects, highlighting my skill in building engaging, user-centric
+					online experiences. Click on the screenshots to explore these sites in real-time and
+					witness the functionality and design finesse firsthand.
 				</p>
 				<div class="mt-10 flex">
 					<a
 						href="#contact"
 						class="rounded-md bg-primary px-3.5 py-2 text-base font-bold leading-7 text-secondary shadow-sm duration-300 ease-out focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary sm:hover:scale-110"
 					>
-						Start your project today
+						Get Started on Your Project
 					</a>
 				</div>
 			</div>

@@ -54,26 +54,29 @@
 				<div class="mx-auto max-w-2xl gap-x-14 lg:mx-0 lg:flex lg:max-w-none lg:items-center">
 					<div class="w-full max-w-xl xl:max-w-2xl lg:shrink-0">
 						<h1 class="text-4xl font-bold tracking-tight text-heading sm:text-6xl">
-							Elevate your business and achieve success with webexpressions
+							Crafting Exceptional Web and App Solutions with Svelte & Flutter
 						</h1>
 						<p class="relative mt-6 text-lg leading-8 text-body sm:max-w-md lg:max-w-none">
-							Unleash your brand's full potential and elevate your business to the next level with
-							our comprehensive web & app design and development solutions, including UI/UX design,
-							hosting, digital marketing, e-commerce, and more. Let's build something amazing
-							together.
+							Discover the perfect blend of innovation and expertise for your web and app
+							development needs. Specializing in Svelte and Flutter, I bring your ideas to life with
+							solutions that are as unique as your business. Complementing these development
+							services, my personalized consulting ensures that your project is not only technically
+							sound but also strategically aligned with your specific goals. Your project is unique,
+							and it deserves a specialized touch. Let's collaborate to create something truly
+							remarkable.
 						</p>
 						<div class="mt-10 flex items-center gap-x-6">
 							<a
 								href="/#contact"
 								class="rounded-md bg-primary px-3.5 py-2 text-base font-bold leading-7 text-secondary shadow-sm duration-300 ease-out focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary sm:hover:scale-110"
 							>
-								Get started
+								Get Started
 							</a>
 							<a
 								href="/#portfolio"
 								class="text-base font-bold leading-6 text-heading duration-300 ease-in-out hover:scale-110"
 							>
-								View our portfolio <span aria-hidden="true">→</span>
+								View my Portfolio <span aria-hidden="true">→</span>
 							</a>
 						</div>
 					</div>

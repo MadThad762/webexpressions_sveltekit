@@ -50,14 +50,16 @@
 	<div class="mx-auto max-w-2xl text-center lg:max-w-4xl">
 		<h2 class="text-lg font-bold leading-8 tracking-tight text-primary">Pricing</h2>
 		<p class="mt-2 text-3xl font-bold tracking-tight text-heading sm:text-4xl balance">
-			Transparent pricing for unmatched value
+			Transparent, Value-Driven Pricing
 		</p>
 	</div>
-	<p class="mx-auto mt-6 max-w-2xl text-center text-lg leading-8 text-body balance">
-		At webexpressions, we believe in clear, honest pricing that reflects the superior quality and
-		expertise we bring to every project. Our flexible pricing packages are designed to accommodate
-		various needs and budgets, ensuring you receive the best value without any hidden costs. Explore
-		our options, and let's create something extraordinary together.
+	<p class="mx-auto mt-6 max-w-3xl text-center text-lg leading-8 text-body balance">
+		Choose a plan that best fits your project's needs. My pricing is designed to be clear and
+		straightforward, ensuring you get exceptional value at every step. The Starter Plan is perfect
+		for smaller projects or businesses taking their first step into the digital world. For larger or
+		more complex endeavors, the Scale Plan is tailored to match the size and intricacy of your
+		project, guaranteeing a solution that's as unique as your vision. Let's discuss your project to
+		find the best plan for you.
 	</p>
 	<div
 		class="mx-auto mt-16 grid max-w-lg grid-cols-1 items-center gap-y-6 sm:mt-20 sm:gap-y-0 lg:max-w-4xl lg:grid-cols-2"

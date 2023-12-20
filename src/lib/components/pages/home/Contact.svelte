@@ -1,18 +1,17 @@
 <section id="contact" class="overflow-hidden bg-white py-24 px-6 lg:px-8 lg:py-32">
 	<div class="relative mx-auto max-w-[44rem]">
 		<div class="mx-auto lg:text-center">
-			<h2 class="text-lg font-bold leading-8 tracking-tight text-primary">Contact us</h2>
+			<h2 class="text-lg font-bold leading-8 tracking-tight text-primary">Lets Connect</h2>
 			<p class="mt-2 text-3xl font-bold tracking-tight text-heading sm:text-4xl">
-				Get started with a free consultation
+				Start Your Digital Journey Today
 			</p>
 			<p class="mt-6 text-lg leading-8 text-body">
-				At webexpressions, your thoughts and ideas are our fuel for innovation. For every question,
-				project proposal, or potential collaboration, we're here, ready to listen and transform your
-				vision into digital reality. Connect with us via the form below, or for a more personal
-				touch, call us at{' '}
-				<a href="tel:440-222-5817" class="font-semibold text-primary"> 440-222-5817 </a>{' '}
-				to begin our journey together. We're beyond excited to shape the future of the digital world
-				with you.
+				Ready to bring your web or app project to life? I'm here to help. Reach out to discuss your
+				ideas, ask questions, or start planning your next digital venture. Whether it's about a
+				potential project, a question about my services, or just a hello, I'm all ears. Fill out the
+				form or give me a call at <a href="tel:440-222-5817" class="font-semibold text-primary">
+					440-222-5817
+				</a> – let's make something amazing together.
 			</p>
 		</div>
 		<div class="mt-12 max-w-2xl mx-auto">
@@ -105,7 +104,7 @@
 						type="submit"
 						class="inline-flex w-full items-center justify-center rounded-md border border-transparent bg-primary px-6 py-3 text-base font-bold text-secondary shadow-sm duration-300 ease-out focus:outline-none focus:ring-2 focus:ring-black focus:ring-offset-2 sm:hover:scale-105"
 					>
-						Let&apos;s talk
+						Get in Touch
 					</button>
 				</div>
 			</form>

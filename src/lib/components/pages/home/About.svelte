@@ -3,40 +3,38 @@
 
 	const features = [
 		{
-			name: 'Locally owned',
+			name: 'Mastery in Svelte & Flutter Development',
 			description:
-				'Rooted in our community just 35 minutes west of Cleveland, Ohio, webexpressions takes pride in understanding the local business landscape. Our close-knit team connects with clients on a personal level, offering friendly and accessible service.',
-			svg: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" class="w-6 h-6">
-  <path fill-rule="evenodd" d="M11.54 22.351l.07.04.028.016a.76.76 0 00.723 0l.028-.015.071-.041a16.975 16.975 0 001.144-.742 19.58 19.58 0 002.683-2.282c1.944-1.99 3.963-4.98 3.963-8.827a8.25 8.25 0 00-16.5 0c0 3.846 2.02 6.837 3.963 8.827a19.58 19.58 0 002.682 2.282 16.975 16.975 0 001.145.742zM12 13.5a3 3 0 100-6 3 3 0 000 6z" clip-rule="evenodd" />
+				'Specializing in Svelte and Flutter, webexpressions brings cutting-edge solutions to the forefront of your projects. My focus on these modern technologies ensures that your web and app developments are not just current but also future-ready. This expertise translates into sleek, efficient, and high-performing digital products tailored for success.',
+			svg: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" data-slot="icon" class="w-6 h-6">
+  <path fill-rule="evenodd" d="M3 6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3V6Zm14.25 6a.75.75 0 0 1-.22.53l-2.25 2.25a.75.75 0 1 1-1.06-1.06L15.44 12l-1.72-1.72a.75.75 0 1 1 1.06-1.06l2.25 2.25c.141.14.22.331.22.53Zm-10.28-.53a.75.75 0 0 0 0 1.06l2.25 2.25a.75.75 0 1 0 1.06-1.06L8.56 12l1.72-1.72a.75.75 0 1 0-1.06-1.06l-2.25 2.25Z" clip-rule="evenodd" />
 </svg>
 `
 		},
 		{
-			name: 'Cutting edge',
+			name: 'Tailored Strategies for Your Success',
 			description:
-				'Innovation drives us at webexpressions. We harness the latest technologies and creative thinking to provide solutions that are not only state-of-the-art but also future-ready. Stay ahead of the curve with our forward-thinking approach.',
-			svg: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" class="w-6 h-6">
-  <path d="M16.5 7.5h-9v9h9v-9z" />
-  <path fill-rule="evenodd" d="M8.25 2.25A.75.75 0 019 3v.75h2.25V3a.75.75 0 011.5 0v.75H15V3a.75.75 0 011.5 0v.75h.75a3 3 0 013 3v.75H21A.75.75 0 0121 9h-.75v2.25H21a.75.75 0 010 1.5h-.75V15H21a.75.75 0 010 1.5h-.75v.75a3 3 0 01-3 3h-.75V21a.75.75 0 01-1.5 0v-.75h-2.25V21a.75.75 0 01-1.5 0v-.75H9V21a.75.75 0 01-1.5 0v-.75h-.75a3 3 0 01-3-3v-.75H3A.75.75 0 013 15h.75v-2.25H3a.75.75 0 010-1.5h.75V9H3a.75.75 0 010-1.5h.75v-.75a3 3 0 013-3h.75V3a.75.75 0 01.75-.75zM6 6.75A.75.75 0 016.75 6h10.5a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75H6.75a.75.75 0 01-.75-.75V6.75z" clip-rule="evenodd" />
+				'At webexpressions, each project is approached with a bespoke strategy, ensuring that your unique business goals are met with precision. My consulting services go beyond mere development; I delve into understanding your vision, challenges, and objectives to provide solutions that truly align with your aspirations. It’s consultancy that’s as unique as your business.',
+			svg: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" data-slot="icon" class="w-6 h-6">
+  <path fill-rule="evenodd" d="M15.22 6.268a.75.75 0 0 1 .968-.431l5.942 2.28a.75.75 0 0 1 .431.97l-2.28 5.94a.75.75 0 1 1-1.4-.537l1.63-4.251-1.086.484a11.2 11.2 0 0 0-5.45 5.173.75.75 0 0 1-1.199.19L9 12.312l-6.22 6.22a.75.75 0 0 1-1.06-1.061l6.75-6.75a.75.75 0 0 1 1.06 0l3.606 3.606a12.695 12.695 0 0 1 5.68-4.974l1.086-.483-4.251-1.632a.75.75 0 0 1-.432-.97Z" clip-rule="evenodd" />
 </svg>
 `
 		},
 		{
-			name: 'Straightforward pricing',
+			name: 'Dedicated to Excellence',
 			description:
-				'Transparency is our mantra. At webexpressions, we offer clear and competitive pricing without hidden fees or surprises. We work closely with you to ensure our services align with your budget and goals, making excellence affordable.',
-			svg: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" class="w-6 h-6">
-  <path d="M10.464 8.746c.227-.18.497-.311.786-.394v2.795a2.252 2.252 0 01-.786-.393c-.394-.313-.546-.681-.546-1.004 0-.323.152-.691.546-1.004zM12.75 15.662v-2.824c.347.085.664.228.921.421.427.32.579.686.579.991 0 .305-.152.671-.579.991a2.534 2.534 0 01-.921.42z" />
-  <path fill-rule="evenodd" d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zM12.75 6a.75.75 0 00-1.5 0v.816a3.836 3.836 0 00-1.72.756c-.712.566-1.112 1.35-1.112 2.178 0 .829.4 1.612 1.113 2.178.502.4 1.102.647 1.719.756v2.978a2.536 2.536 0 01-.921-.421l-.879-.66a.75.75 0 00-.9 1.2l.879.66c.533.4 1.169.645 1.821.75V18a.75.75 0 001.5 0v-.81a4.124 4.124 0 001.821-.749c.745-.559 1.179-1.344 1.179-2.191 0-.847-.434-1.632-1.179-2.191a4.122 4.122 0 00-1.821-.75V8.354c.29.082.559.213.786.393l.415.33a.75.75 0 00.933-1.175l-.415-.33a3.836 3.836 0 00-1.719-.755V6z" clip-rule="evenodd" />
+				'Quality is at the heart of everything I do at webexpressions. From initial concepts to final deployment, every stage is handled with utmost care and attention to detail. This commitment to quality means delivering projects that not only meet but exceed your expectations, ensuring that every aspect of your web or app project shines.',
+			svg: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" data-slot="icon" class="w-6 h-6">
+  <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" />
 </svg>
 `
 		},
 		{
-			name: 'Satisfaction guarantee',
+			name: 'Your Partner in Development',
 			description:
-				'Your success is our passion. We stand behind our work with unwavering commitment to quality, performance, and client satisfaction. With webexpressions, you can rest assured that our team will exceed your expectations every step of the way.',
-			svg: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" class="w-6 h-6">
-  <path d="M7.493 18.75c-.425 0-.82-.236-.975-.632A7.48 7.48 0 016 15.375c0-1.75.599-3.358 1.602-4.634.151-.192.373-.309.6-.397.473-.183.89-.514 1.212-.924a9.042 9.042 0 012.861-2.4c.723-.384 1.35-.956 1.653-1.715a4.498 4.498 0 00.322-1.672V3a.75.75 0 01.75-.75 2.25 2.25 0 012.25 2.25c0 1.152-.26 2.243-.723 3.218-.266.558.107 1.282.725 1.282h3.126c1.026 0 1.945.694 2.054 1.715.045.422.068.85.068 1.285a11.95 11.95 0 01-2.649 7.521c-.388.482-.987.729-1.605.729H14.23c-.483 0-.964-.078-1.423-.23l-3.114-1.04a4.501 4.501 0 00-1.423-.23h-.777zM2.331 10.977a11.969 11.969 0 00-.831 4.398 12 12 0 00.52 3.507c.26.85 1.084 1.368 1.973 1.368H4.9c.445 0 .72-.498.523-.898a8.963 8.963 0 01-.924-3.977c0-1.708.476-3.305 1.302-4.666.245-.403-.028-.959-.5-.959H4.25c-.832 0-1.612.453-1.918 1.227z" />
+				'Collaboration and transparency are key in my approach. At webexpressions, you’re not just hiring a service; you’re gaining a partner. I believe in maintaining open lines of communication throughout the development process, ensuring you’re informed and involved every step of the way. It’s a partnership that fosters trust and yields better results.',
+			svg: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" data-slot="icon" class="w-6 h-6">
+  <path fill-rule="evenodd" d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm-2.625 6c-.54 0-.828.419-.936.634a1.96 1.96 0 0 0-.189.866c0 .298.059.605.189.866.108.215.395.634.936.634.54 0 .828-.419.936-.634.13-.26.189-.568.189-.866 0-.298-.059-.605-.189-.866-.108-.215-.395-.634-.936-.634Zm4.314.634c.108-.215.395-.634.936-.634.54 0 .828.419.936.634.13.26.189.568.189.866 0 .298-.059.605-.189.866-.108.215-.395.634-.936.634-.54 0-.828-.419-.936-.634a1.96 1.96 0 0 1-.189-.866c0-.298.059-.605.189-.866Zm2.023 6.828a.75.75 0 1 0-1.06-1.06 3.75 3.75 0 0 1-5.304 0 .75.75 0 0 0-1.06 1.06 5.25 5.25 0 0 0 7.424 0Z" clip-rule="evenodd" />
 </svg>
 `
 		}
@@ -50,19 +48,19 @@
 		>
 			<div class="lg:ml-auto lg:pl-4">
 				<div class="lg:max-w-lg">
-					<h2 class="text-lg font-bold leading-8 text-primary">About us</h2>
+					<h2 class="text-lg font-bold leading-8 text-primary">About Me</h2>
 					<p class="mt-2 text-3xl font-bold tracking-tight text-heading sm:text-4xl">
-						A premier creative agency, fueled by passion
+						Personalized Web & App Development Expertise
 					</p>
 					<p class="mt-6 text-lg leading-8 text-body">
-						At webexpressions, we're more than just developers; we're architects of digital success.
-						With deep-rooted expertise in web and app design, we offer cutting-edge services
-						meticulously tailored to align with our clients' unique business goals. Our unwavering
-						commitment to quality and customer satisfaction keeps us at the forefront of the
-						ever-evolving digital landscape. By crafting innovative and forward-thinking solutions,
-						we don't just meet expectations—we exceed them, empowering our clients to drive tangible
-						and impactful results. Join us on this journey, and let's redefine what's possible
-						together.
+						Welcome to webexpressions, where innovative web and app development meets personalized
+						service. I'm a seasoned developer specializing in Svelte and Flutter, dedicated to
+						bringing your digital ideas to life. With a deep understanding of the latest
+						technologies and a keen eye for detail, I craft bespoke solutions tailored to your
+						unique needs. My journey in the tech industry has always been driven by a passion for
+						problem-solving and innovation. Every project is an opportunity to explore new horizons
+						and create something truly exceptional. At webexpressions, it's not just about building
+						applications; it's about crafting digital experiences that resonate and deliver results.
 					</p>
 				</div>
 			</div>

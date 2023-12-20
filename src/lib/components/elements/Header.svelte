@@ -8,6 +8,7 @@
 	};
 
 	const navigation = [
+		{ name: 'Home', href: '/' },
 		{ name: 'About', href: '/#about' },
 		{ name: 'Services', href: '/#services' },
 		{ name: 'Portfolio', href: '/#portfolio' },
@@ -58,13 +59,7 @@
 				class="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-white px-6 py-4 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10"
 			>
 				<div class="flex items-center justify-between">
-					<a
-						href="/"
-						on:click={() => {
-							toggleMenu();
-						}}
-						class="-m-1.5 px-1.5"
-					>
+					<a href="/" on:click={() => toggleMenu()} class="-m-1.5 px-1.5">
 						<span class="sr-only">Your Company</span>
 						<img class="h-8 w-auto" src={logo} alt="webexpressions logo" />
 					</a>
@@ -88,12 +83,12 @@
 				</div>
 				<div class="mt-6 flow-root">
 					<div class="-my-6 flex flex-col divide-y divide-slate-500/10 pt-6">
-						<nav class="mt-8 flex flex-col items-end space-y-8">
+						<nav class="mt-8 flex flex-col items-end space-y-4 lg:space-y-6">
 							{#each navigation as item}
 								<a
 									href={item.href}
 									on:click={() => toggleMenu()}
-									class="-mx-3 block rounded-lg py-3 px-5 text-3xl font-bold leading-7 text-heading sm:hover:scale-110 sm:ease-in-out sm:duration-300"
+									class="-mx-3 block rounded-lg py-3 px-5 text-2xl lg:text-3xl font-bold leading-7 text-heading sm:hover:scale-110 sm:ease-in-out sm:duration-300"
 								>
 									{item.name}
 								</a>
