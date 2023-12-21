@@ -3,6 +3,14 @@
 
 	const previewPosts = [
 		{
+			title: 'Understanding the MVP: Its Purpose and How It Differs from the Final Product',
+			preview:
+				"In the realm of startups and product development, the term 'Minimum Viable Product' (MVP) is often mentioned. But what exactly is an MVP, and how does it differ from the final product? This blog post aims to demystify the MVP, explaining its purpose and distinguishing it from a fully developed product.",
+			tags: ['Business Strategy'],
+			url: 'understanding-the-mvp-its-purpose-and-how-it-differs-from-the-final-product',
+			date: 'Dec 21, 2023'
+		},
+		{
 			title: 'Svelte vs React: Which One Should You Choose?',
 			preview:
 				"In the ever-evolving landscape of web development, choosing the right framework for your project can be a pivotal decision. Two of the most talked-about contenders in recent years are Svelte and React. Both have their unique strengths and cater to different needs and preferences. Let's dive into a comprehensive comparison to help you make an informed choice.",
