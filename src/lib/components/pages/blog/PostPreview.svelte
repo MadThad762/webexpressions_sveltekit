@@ -24,7 +24,7 @@
 	<div>
 		<a href={`/blog/posts/${post?.url}`}>
 			<h3
-				class="mt-3 text-lg font-semibold leading-6 text-heading hover:scale-105 ease-in-out duration-300"
+				class="mt-3 text-lg font-semibold leading-6 text-heading hover:text-body ease-in-out duration-150"
 			>
 				{post?.title}
 			</h3>

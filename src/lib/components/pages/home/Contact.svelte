@@ -102,7 +102,7 @@
 				<div class="sm:col-span-2">
 					<button
 						type="submit"
-						class="inline-flex w-full items-center justify-center rounded-md border border-transparent bg-primary px-6 py-3 text-base font-bold text-secondary shadow-sm duration-300 ease-out focus:outline-none focus:ring-2 focus:ring-black focus:ring-offset-2 sm:hover:scale-105"
+						class="inline-flex w-full items-center justify-center rounded-md border border-transparent bg-primary px-6 py-3 text-base font-bold text-secondary shadow-sm duration-150 ease-out focus:outline-none focus:ring-2 focus:ring-black focus:ring-offset-2 hover:bg-primary-dark"
 					>
 						Get in Touch
 					</button>

@@ -111,9 +111,9 @@
 					href={tier.href}
 					class={classNames(
 						tier.featured
-							? 'bg-primary text-secondary shadow hover:scale-105'
-							: 'text-primary ring-1 ring-inset ring-primary hover:scale-105',
-						'mt-8 block rounded-md py-2.5 px-3.5 text-center text-sm font-bold duration-300 ease-in-out focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary sm:mt-10'
+							? 'bg-primary text-secondary shadow hover:bg-primary-dark'
+							: 'text-primary ring-1 ring-inset ring-primary hover:bg-primary-dark hover:ring-primary-dark hover:text-white',
+						'mt-8 block rounded-md py-2.5 px-3.5 text-center text-sm font-bold duration-150 ease-in-out focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary sm:mt-10'
 					)}
 				>
 					Get started today

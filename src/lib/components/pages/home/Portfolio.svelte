@@ -25,7 +25,7 @@
 				<div class="mt-10 flex">
 					<a
 						href="#contact"
-						class="rounded-md bg-primary px-3.5 py-2 text-base font-bold leading-7 text-secondary shadow-sm duration-300 ease-out focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary sm:hover:scale-110"
+						class="rounded-md bg-primary px-3.5 py-2 text-base font-bold leading-7 text-secondary shadow-sm duration-150 ease-out focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary hover:bg-primary-dark"
 					>
 						Get Started on Your Project
 					</a>

@@ -88,7 +88,7 @@
 								<a
 									href={item.href}
 									on:click={() => toggleMenu()}
-									class="-mx-3 block rounded-lg py-3 px-5 text-2xl lg:text-3xl font-bold leading-7 text-heading sm:hover:scale-110 sm:ease-in-out sm:duration-300"
+									class="-mx-3 block rounded-lg py-3 px-5 text-2xl lg:text-3xl font-bold leading-7 text-heading hover:text-body ease-in-out duration-150"
 								>
 									{item.name}
 								</a>
