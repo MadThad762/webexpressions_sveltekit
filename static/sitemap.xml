@@ -48,4 +48,18 @@
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
+
+    <!-- Blog Post: Understanding the MVP -->
+    <url>
+        <loc>https://www.webexpressions.io/blog/posts/understanding-the-mvp-its-purpose-and-how-it-differs-from-the-final-product</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Blog Post: Svelte vs React -->
+    <url>
+        <loc>https://www.webexpressions.io/blog/posts/svelte-vs-react-which-one-should-you-choose</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
 </urlset>
