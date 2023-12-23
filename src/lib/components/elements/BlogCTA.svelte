@@ -1,7 +1,7 @@
 <div class="bg-white mt-20">
 	<div class="mx-auto">
 		<h2 class="text-3xl font-bold tracking-tight text-heading sm:text-4xl">
-			Ready to Elevate Your Project?<br />Get Expert Consultation Today!
+			Need an Expert?<br />I'm Here to Help!
 		</h2>
 		<div class="mt-10 flex items-center gap-x-6">
 			<a
