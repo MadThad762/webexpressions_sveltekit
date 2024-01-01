@@ -51,6 +51,13 @@
 
     <!-- Blog Post: Understanding the MVP -->
     <url>
+        <loc>https://webexpressions.io/blog/posts/flutter-the-cost-effective-solution-for-cross-platform-app-development</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Blog Post: Understanding the MVP -->
+    <url>
         <loc>https://webexpressions.io/blog/posts/understanding-the-mvp-its-purpose-and-how-it-differs-from-the-final-product</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
