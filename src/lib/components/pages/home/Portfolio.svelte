@@ -35,7 +35,7 @@
 				class="flex flex-col-reverse sm:flex-wrap sm:flex-row items-start justify-end gap-6 sm:gap-8 lg:contents"
 			>
 				<div class="w-0 flex-auto lg:ml-auto lg:w-auto lg:flex-none lg:self-end">
-					<a rel="noReferrer" target={'_blank'} href="https://almjunkremoval.com">
+					<a rel="noReferrer" target={'_blank'} href="https://alm-junk-removal.vercel.app">
 						<img
 							src={almImage}
 							alt="ALM Junk Removal"
