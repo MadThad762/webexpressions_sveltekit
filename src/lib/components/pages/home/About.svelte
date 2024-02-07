@@ -3,9 +3,9 @@
 
 	const features = [
 		{
-			name: 'Mastery in Svelte & Flutter Development',
+			name: 'Mastery in Bleeding-Edge Web & App Development',
 			description:
-				'Specializing in Svelte and Flutter, webexpressions brings cutting-edge solutions to the forefront of your projects. My focus on these modern technologies ensures that your web and app developments are not just current but also future-ready. This expertise translates into sleek, efficient, and high-performing digital products tailored for success.',
+				'At webexpressions, I harness the power of bleeding-edge technologies such as React, SolidJS, Svelte, Bun, and SwiftUI to push your projects to the forefront of innovation. My focus on these advanced frameworks ensures your web and app developments are not just contemporary, but future-proof. With this deep expertise, I deliver sleek, efficient, and high-performing digital products, crafted for lasting success in the ever-evolving tech landscape.',
 			svg: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" data-slot="icon" class="w-6 h-6">
   <path fill-rule="evenodd" d="M3 6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3V6Zm14.25 6a.75.75 0 0 1-.22.53l-2.25 2.25a.75.75 0 1 1-1.06-1.06L15.44 12l-1.72-1.72a.75.75 0 1 1 1.06-1.06l2.25 2.25c.141.14.22.331.22.53Zm-10.28-.53a.75.75 0 0 0 0 1.06l2.25 2.25a.75.75 0 1 0 1.06-1.06L8.56 12l1.72-1.72a.75.75 0 1 0-1.06-1.06l-2.25 2.25Z" clip-rule="evenodd" />
 </svg>
@@ -53,14 +53,13 @@
 						Personalized Web & App Development Expertise
 					</p>
 					<p class="mt-6 text-lg leading-8 text-body">
-						Welcome to webexpressions, where innovative web and app development meets personalized
-						service. I'm a seasoned developer specializing in Svelte and Flutter, dedicated to
-						bringing your digital ideas to life. With a deep understanding of the latest
-						technologies and a keen eye for detail, I craft bespoke solutions tailored to your
-						unique needs. My journey in the tech industry has always been driven by a passion for
-						problem-solving and innovation. Every project is an opportunity to explore new horizons
-						and create something truly exceptional. At webexpressions, it's not just about building
-						applications; it's about crafting digital experiences that resonate and deliver results.
+						Welcome to webexpressions, where cutting-edge web and app development meets personalized
+						service. I specialize in utilizing the latest technologies like React, SolidJS, Svelte,
+						Bun, and SwiftUI to deliver high-performance applications tailored to your unique needs.
+						My approach is driven by a strong passion for problem-solving and innovation, ensuring
+						every project not only meets but exceeds expectations. In a world dominated by
+						technology, webexpressions stands out by offering bespoke digital solutions that are
+						efficient, effective, and tailored to the modern digital landscape.
 					</p>
 				</div>
 			</div>

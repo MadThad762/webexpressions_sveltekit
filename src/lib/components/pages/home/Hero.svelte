@@ -52,18 +52,18 @@
 		<div class="overflow-hidden">
 			<div class="mx-auto max-w-7xl px-6 pb-20 pt-24 sm:pb-32 sm:pt-60 lg:px-8 lg:pt-32">
 				<div class="mx-auto max-w-2xl gap-x-14 lg:mx-0 lg:flex lg:max-w-none lg:items-center">
-					<div class="w-full max-w-xl xl:max-w-2xl lg:shrink-0">
+					<div class="w-full max-w-xl lg:shrink-0">
 						<h1 class="text-4xl font-bold tracking-tight text-heading sm:text-6xl">
-							Crafting Exceptional Web and App Solutions with Svelte & Flutter
+							Bleeding-Edge Web and App Solutions
 						</h1>
 						<p class="relative mt-6 text-lg leading-8 text-body sm:max-w-md lg:max-w-none">
 							Discover the perfect blend of innovation and expertise for your web and app
-							development needs. Specializing in Svelte and Flutter, I bring your ideas to life with
-							solutions that are as unique as your business. Complementing these development
-							services, my personalized consulting ensures that your project is not only technically
-							sound but also strategically aligned with your specific goals. Your project is unique,
-							and it deserves a specialized touch. Let's collaborate to create something truly
-							remarkable.
+							development needs. Specializing in the latest tech tools and frameworks, I bring your
+							ideas to life with solutions that are as unique as your business. Complementing these
+							development services, my personalized consulting ensures that your project is not only
+							technically sound but also strategically aligned with your specific goals. Your
+							project is unique, and it deserves a specialized touch. Let's collaborate to create
+							something truly remarkable.
 						</p>
 						<div class="mt-10 flex items-center gap-x-6">
 							<a

@@ -9,14 +9,14 @@
 </script>
 
 <svelte:head>
-	<title>webexpressions - Expert Svelte & Flutter Developer | Web & App Solutions</title>
+	<title>webexpressions | Bleeding-Edge Web and App Solutions</title>
 	<meta
 		name="description"
-		content="Discover top-notch web and app development with webexpressions. Specializing in Svelte and Flutter, I offer tailored web design, app creation, consulting, and more to bring your digital visions to life. Connect for innovative, efficient solutions designed just for you."
+		content="Unlock premier web and app development at webexpressions, where cutting-edge technologies like React, SolidJS, Svelte, and SwiftUI meet bespoke design and consulting. Specializing in custom, efficient digital solutions, we're dedicated to transforming your ideas into reality. Engage with us for personalized, innovative web and app creations tailored to your unique needs."
 	/>
 	<meta
 		name="keywords"
-		content="webexpressions, Svelte development, Flutter development, SvelteKit, TailwindCSS, Tailwind, web design, app creation, web solutions, app development services, personalized web consulting, digital solutions, custom app development, efficient web development, innovative app design, web developer, app developer, Svelte expert, Flutter expert"
+		content="webexpressions, Svelte Development, SolidJS Development, Bun Development, SwiftUI Development, React Development, iOS App Development, SvelteKit Integration, TailwindCSS Customization, NextJS Implementation, Remix Architecture, SolidStart Integration, Web Development Services, App Development Solutions, Custom Web Consulting, Digital Solution Expertise, Custom App Development, Efficient Web Design, Innovative App Design, Web Developer Expertise, App Developer Services, Svelte Expert, SwiftUI Specialist, React Developer, iOS Developer, NextJS Developer, Remix Developer, SolidStart Developer"
 	/>
 </svelte:head>
 
