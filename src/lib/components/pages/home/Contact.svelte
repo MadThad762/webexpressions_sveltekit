@@ -21,7 +21,7 @@
 				class="grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8"
 			>
 				<div>
-					<label for="first-name" class="block text-sm font-bold text-heading"> First name </label>
+					<label for="first-name" class="block text-sm font-bold text-heading"> First Name </label>
 					<div class="mt-1">
 						<input
 							type="text"
@@ -34,7 +34,7 @@
 					</div>
 				</div>
 				<div>
-					<label for="last-name" class="block text-sm font-bold text-heading"> Last name </label>
+					<label for="last-name" class="block text-sm font-bold text-heading"> Last Name </label>
 					<div class="mt-1">
 						<input
 							type="text"
@@ -73,9 +73,7 @@
 					</div>
 				</div>
 				<div class="sm:col-span-2">
-					<label for="phone-number" class="block text-sm font-bold text-heading">
-						Phone Number
-					</label>
+					<label for="phone-number" class="block text-sm font-bold text-heading"> Phone </label>
 					<div class="relative mt-1 rounded-md shadow-sm">
 						<input
 							type="text"
