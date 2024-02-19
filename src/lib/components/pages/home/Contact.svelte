@@ -16,7 +16,7 @@
 		</div>
 		<div class="mt-12 max-w-2xl mx-auto">
 			<form
-				action="https://formspree.io/f/mdoyypbr"
+				action="https://formspree.io/f/moqgdbdb"
 				method="POST"
 				class="grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8"
 			>
